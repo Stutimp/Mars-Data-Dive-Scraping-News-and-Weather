@@ -1,4 +1,4 @@
-# Mars News and Weasther Data Scraping
+# Mars Data Dive: Scraping News and Weather
 
 ## Project Overview
 This project involves two main tasks related to web scraping and data analysis. The aim is to collect data from the Mars News and Mars Weather websites, analyze the data, and visualize insights. The project is divided into two parts:
