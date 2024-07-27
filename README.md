@@ -26,16 +26,16 @@ This project involves two main tasks related to web scraping and data analysis. 
 
 **Steps Taken**
 
-1. **Automated Browsing:** Use Splinter to visit the Mars weather data site and extract the HTML code.
-2. **HTML Parsing:** Create a BeautifulSoup object and extract the table data.
-3. **DataFrame Creation:** Assemble the scraped data into a Pandas DataFrame.
+1. **Automated Browsing:** Used Splinter to visit the Mars weather data site and extract the HTML code.
+2. **HTML Parsing:** Created a BeautifulSoup object and extract the table data.
+3. **DataFrame Creation:** Assembled the scraped data into a Pandas DataFrame.
 
 4. **Data Analysis:**
-- Determine the number of months on Mars.
-- Calculate the number of Martian days of data available.
-- Identify the coldest and warmest months based on average minimum temperature.
-- Identify the months with the lowest and highest atmospheric pressure.
-- Estimate the number of terrestrial days in a Martian year.
+- Determined the number of months on Mars.
+- Calculated the number of Martian days of data available.
+- Identified the coldest and warmest months based on average minimum temperature.
+- Identified the months with the lowest and highest atmospheric pressure.
+- Estimated the number of terrestrial days in a Martian year.
 
 5. **Data Export:** Export the DataFrame to a CSV file.
 
