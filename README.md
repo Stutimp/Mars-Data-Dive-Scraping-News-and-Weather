@@ -8,7 +8,7 @@ This project involves two main tasks related to web scraping and data analysis. 
 
 ### Deliverables
 
-## Part-1 Scrape Titles and Preview Text from Mars News
+### Part-1 Scrape Titles and Preview Text from Mars News
 
 - In this part of the challenge, I have **scraped titles and text previews from Mars News articles** from this https://static.bc-edx.com/data/web/mars_news/index.html Website. 
 
